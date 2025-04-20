@@ -1,5 +1,7 @@
 Create a Virtual machine with 2GB RAM 1vCPU in Ububtu
 Create Storage to upload the image with annonymous access. Goto Data Storage --> Containers --> create a container. Change access level. Set the access as anonymous read access.
+Under the seeting -> Configuration -> Allow storage account key access (Enabled). Allow Blob anonymous access (Enabled). Allow storage account key access (Enabled)
+
 Create Vision services
 
 Once VM is created run the following commands
