@@ -45,3 +45,22 @@ def key_phrase_extraction_example(client):
 # Run the example
 key_phrase_extraction_example(client)
 ---------------------------------------------------
+####
+    1  apt-get update -y
+    2  mkdir application
+    3  cd application/
+    4  ls -lrt
+    5  apt install python3-pip
+    6  apt install python3-venv -y
+    7  python3 -m venv myvenv
+    8  source myvenv/bin/activate
+    9  pip install --upgrade
+   10  pip install --upgrade pip
+   11  pip install --upgrade az
+   12  pip install pillow
+   13  touch app.py
+   14  vi app.py 
+   15  python app.py 
+   16  pip install azure-ai-textanalytics
+   17  python app.py 
+####################################
