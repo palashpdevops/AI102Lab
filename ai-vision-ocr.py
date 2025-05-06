@@ -7,7 +7,7 @@ from azure.cognitiveservices.vision.computervision import ComputerVisionClient
 from msrest.authentication import CognitiveServicesCredentials
 
 # Azure Computer Vision Configuration
-subscription_key = "5vCQ9WNkHfbQ7hX5yCtlhgAM8pt9q3EYw8cXnbdXHxB8PYBPFhg4JQQJ99BDACYeBjFXJ3w3AAAFACOGlYNk"  # or replace with your key
+subscription_key = "My_Azure_Key"  # or replace with your key
 endpoint = "https://palashaidemo.cognitiveservices.azure.com/"
 
 def read_text_from_image(image_url):
