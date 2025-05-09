@@ -1,0 +1,105 @@
+16+ Years of IT experience | AWS | Terraform | CI/CD | Security and Performance optimization
+
+Core Competencies
+•	Infrastructure Configuration & Management: End-to-end infrastructure setup for application runtime, including load balancing, scaling, and high availability.
+•	Cloud & DevOps Expertise: Proficient in AWS, Terraform, Puppet, GitHub Actions, Jenkins, and CI/CD pipeline automation.
+•	Web Server & Middleware: Deep knowledge of Apache Webserver, Tomcat, HAProxy, and BigIP Load Balancer, Oracle Weblogic
+•	Monitoring & Analytics: Skilled in implementing and managing monitoring tools for proactive infrastructure health checks.
+•	Leadership & Project Management: Experienced in leading small to medium-sized teams, managing infrastructure projects, and ensuring timely delivery.
+•	Troubleshooting & Problem Solving: Strong analytical skills to diagnose and resolve infrastructure failures and application performance issues efficiently.
+
+
+
+Technical Skills
+•	Cloud & Infrastructure: AWS (EC2, S3, IAM, ALB, VPC), Terraform (IaC), BigIP F5
+•	CI/CD & Automation: GitHub Actions, Jenkins, Puppet, Shell/Perl/Python Scripting
+•	Web & Middleware: Apache, Tomcat, Oracle Weblogic, HAProxy, Infoblox DNS Tool
+•	Monitoring Tools: New Relic, Nagios, Splunk
+•	Security & Compliance: SSL/TLS Certificates, Vulnerability Management, Auth Integration
+•	Version Control: GitHub, SVN
+•	Operating Systems: Linux (Ubuntu, CentOS, RedHat, Solaris9), Windows Server
+
+
+
+
+
+
+
+Senior IT Infrastructure Engineer & Team Lead
+Organization: Cognizant Technology Solution
+Project: John Deere Web Platform Service – [Feb 2017 – Till Date]
+Industry: MLEU
+•	Led a team of 5 engineers in designing and implementing end-to-end infrastructure solutions for application runtime, ensuring high availability and scalability.
+•	Automated infrastructure provisioning and configuration using Terraform and Puppet, reducing deployment time by 40%.
+•	Desigen infrastructure in Terraform, enabling scalable and repeatable deployments.
+•	Implemented CI/CD pipelines using Jenkins and GitHub, enabling seamless application deployments.
+•	Developed Puppet modules & Shell scripts for configurations management.
+•	Optimized Apache and Tomcat configurations, closely worked with developers to improve application performance and reduce latency.
+•	Set up and managed HAProxy and BigIP load balancers to ensure efficient traffic distribution and failover mechanisms.
+•	Renewed and deployed certificates on Apache web servers, load balancers (BigIP F5, HAProxy), updated CA certificate and import certificates in Java keystore.
+•	Automated certificates renewal process in BigIP F5 using Key factor PKI.
+•	Remediated vulnerabilities like ROBOT and POODLE, log4j, DoS attack. 
+•	Monitored infrastructure health using tools to proactively resolve issues before they impacted operations.
+•	Conducted root cause analysis for infrastructure failures and implemented preventive measures to minimize downtime.
+•	Prepare and review technical documents as needed.
+
+
+
+Technical Consultant
+Organization: Cognizant Technology Solution, Kolkata
+Project: Dunkin Integration Platform Services, Nov 2014 – Jan2017
+Industry: Hospitality
+Description: Dunkin Brands is into food business having many web apps and mobile applications. BRWeb contains several webservices being called by Dunkin apps to process many request interfacing with PayPal, Firstdata and returns response to Dunkin apps. 
+
+•	Involved in design the server infrastructure to host webservice applications.
+•	Installation and configuration of Weblogic 12c server, Apache, Tomcat on Linux and AWS cloud.
+•	Created WLS domains in cluster, configured JVM properties, Apache webserver to use worker module, install plug-ins, applied patches, setup logging and log rotation.
+•	Extensively worked on fix of memory leakage at initial stage, use of JMC tool, Load testing using JMeter, thread dump and heap dump analysis, adjusting JVM heap size and GC parameters and coordinating with developers for java code modification.
+•	Developed utility scripts for automating WebLogic administration regular tasks (server recycle, log rotation, app deployment).
+•	Setup LB DNS (CNAME) for web services coordinating with network team, setup LB using Apache web servers.
+•	Preparation of technical design document based on functional specifications
+•	Configure New relic tool to capture details of CPU, memory usage, network, jvm, heap size and application statistics.
+Key Achievements: 
+•	Designed and implemented the infrastructure architecture for Dunkin brands Inc and migrated application from Verizon VM to AWS Cloud.
+•	Successfully resolved memory leakage issue and promoted application in live system.
+•	Developed script and automation package to create new Weblogic server from AWS AMI Gold copy and easy maintenance of application.
+
+
+Organization: IBM India Pvt Ltd (External Consultant), Kolkata
+Project: Maersk Line - Unified Security Infrastructure, 2010 Sept - 2014 August
+Industry: Logistics
+Description: Unified Security Infrastructure (USI) a security product, functions as a business-critical security system that enforces several control mechanisms to applications, ensuring that users/other webservices have access to the application they are allowed to access. Application secured with the definition of application schema and user’s access to application is controlled by user certificate where user’s roles for an application are specified.
+Responsibilities:
+•	Setup SSO and X.509 for applications using Unified Security Infrastructure, configure multifactor authentication like Pinsafe, and integration of Salesforce like security model.
+•	Integration with external systems and domains using Federation techniques such as SAML and WS-Federation using both IDP and SP initiated flows, as well as OAuth.
+•	Installation of Weblogic server, Apache web server and various configurations.
+•	Coordinate with Infrastructure team to set up load balancer, DNS, SSL IPs, configure software firewall at OS level.
+•	Develop, update of UNIX shell scripts/Perl or utility program as per requirements.
+•	SSL management on server certificate, domain certificate renewal.
+•	Prepare application deployment package using MBD framework and support application deployment and post deployment issues.
+•	Maintain upgraded configuration resource and codes with version control tools (SVN), create new project in repository.
+•	Involved in setting up HP Load Runner, virtual user needed for SPT post application deployment in Preprod environment.
+
+Key Achievements: 
+•	Provided and implemented innovation on log cleanup, user data migration from LDAP to Oracle.
+•	Successfully delivered technical solution from off-shore when onshore was removed.
+
+
+Sr Systems Administrator
+Organization: Katrasoft, Bangalore, 2009 July – 2010 September
+
+Systems Administrator
+Organization: Trainedge Consulting Pvt Ltd, Bangalore, 2007 Dec – 2009 Dec
+
+
+
+
+
+Bachelor of Engineering in Electronics and communication Engineering - Vivekananda Institute of Technology, Bangalore [2005]
+
+•	Certifications:
+o	AWS Certified Solutions Architect – Associate
+o	HashiCorp Certified Terraform Associate – HCTA0-003
+
+
+
