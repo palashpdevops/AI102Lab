@@ -4,9 +4,9 @@ from azure.core.credentials import AzureKeyCredential
 import requests
 
 # Configuration - replace these with your actual values
-language_key = "62uJDIOhXHgi6xtzyfR9tSWIKmhmCUCFSkj7344dzHbLoOIach4rJQQJ99BEACYeBjFXJ3w3AAAAACOGkxC6"
-language_endpoint = "https://pphub2997981559.cognitiveservices.azure.com/"
-blob_url = "https://zasedemo102.blob.core.windows.net/ai102demo/AIDemo.txt"  # Public blob URL
+language_key = "Language-Service_key"
+language_endpoint = "https://pphubXXXXX.cognitiveservices.azure.com/"
+blob_url = "https://XXXXXX.blob.core.windows.net/ai102demo/AIDemo.txt"  # Public blob URL
 
 def authenticate_text_client():
     """Authenticate the Text Analytics client"""
