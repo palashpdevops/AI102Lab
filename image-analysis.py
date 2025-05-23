@@ -24,7 +24,7 @@ def main():
         ai_key = os.getenv('AI_SERVICE_KEY')
 
         # Get image
-        image_file = input('Enter image file name from local:'\n)
+        image_file = input('Enter image file name from local:\n')
         if len(sys.argv) > 1:
             image_file = sys.argv[1]
 
@@ -33,9 +33,9 @@ def main():
 
         # Authenticate Azure AI Vision client
         cv_client = ImageAnalysisClient(
-    	endpoint=ai_endpoint,
-    	credential=AzureKeyCredential(ai_key)
-	)
+        endpoint=ai_endpoint,
+        credential=AzureKeyCredential(ai_key)
+        )
         
         # Analyze image
         AnalyzeImage(image_file, image_data, cv_client)
@@ -49,15 +49,15 @@ def AnalyzeImage(image_filename, image_data, cv_client):
 
     try:
         # Get result with specified features to be retrieved
-	result = cv_client.analyze(
-    	    image_data=image_data,
-    	    visual_features=[
-        	VisualFeatures.CAPTION,
-        	VisualFeatures.DENSE_CAPTIONS,
-        	VisualFeatures.TAGS,
-        	VisualFeatures.OBJECTS,
-        	VisualFeatures.PEOPLE],
-	)        
+        result = cv_client.analyze(
+            image_data=image_data,
+            visual_features=[
+                VisualFeatures.CAPTION,
+                VisualFeatures.DENSE_CAPTIONS,
+                VisualFeatures.TAGS,
+                VisualFeatures.OBJECTS,
+                VisualFeatures.PEOPLE],
+            )        
 
     except HttpResponseError as e:
         print(f"Status code: {e.status_code}")
