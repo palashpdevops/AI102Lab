@@ -58,6 +58,10 @@ def main():
     
     while True:
         text = read_text_from_file('input.txt')
+
+# If file name should be provided in runtime use below code. Just uncomment        
+        #filename = input("Enter file name: ")
+        #text = read_text_from_file(filename)      
         
 #        if text.lower() == 'quit':
 #            break
